@@ -1,1 +1,9 @@
 # Threat intelligence
+
+Organisations (security community):
+SANS - sysadmin audit network security (maintains early warning system ISC)
+Mitre - maintains list of vulnerabilities
+FIRST - forst cooperation in incident prevention
+ISC^2 - provides education
+CIS - offers cyber threat warnings and advisories
+

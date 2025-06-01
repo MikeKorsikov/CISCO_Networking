@@ -1,0 +1,6 @@
+# Threat Intelligence Services
+
+DHS - US Department of Homeland Security
+AIS - enables exchange of threat indicators, supported by US
+CVE Database - catalog of known security threats (dictionary of common names)
+MISP - platform supported by EU, sharing indicators of compromise
