@@ -1,0 +1,7 @@
+# 
+
+Vulnerability scanners - Nessus, Retina, Core Impact and GFI LanGuard
+SIEM - used for log collection, aggregation
+SOAR - used for responding
+
+Network testing tools - Nmap/Zenmap, SuperScan, SIEM, GFI LANguard, Tripwire, Nessus, L0phtCrack, and Metasploit

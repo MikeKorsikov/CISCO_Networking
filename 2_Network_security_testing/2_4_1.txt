@@ -1,2 +1,17 @@
 # Penetration testing
 
+Penetration testing - way of testing the areas of weaknesses by using malicious techniques.
+
+Black box - no knowledge of inner system (point of regular user)
+Gray box - limited knowlege about system
+White box - knowledge of system (insider)
+
+Phases: Plan > discover > attack > report
+
+Teams:
+Red - adversary
+Blue - defenders
+White - referees
+Purple - red + blue colab
+
+Wireshark - app to capture web traffic (Telnet, SSH)
