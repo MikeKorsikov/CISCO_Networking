@@ -1,0 +1,15 @@
+# Secure Device Management
+
+Risk management - selection of security controls for an organization.
+Cycle: identify > assess > plan response > implement > monitor
+
+Responses:
+- avoid (stop)
+- reduce (take steps)
+- share (transfer to 3P)
+- retain (accept)
+
+###
+
+Vulnerability management - proactively prevent the exploitation of IT vulnerabilities.
+
