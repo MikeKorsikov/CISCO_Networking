@@ -1,0 +1,43 @@
+# Network and server profiling
+
+Tools to characterize traffic characteristics:
+- NetFlow
+- Wireshark
+
+Network profile elements:
+- session duration
+- total throughput
+- ports used
+- critical asset address space
+
+Server profiling - to establish the accepted operating state of server.
+Server profile - server baseline, establishes parameters that are accepted
+
+Server profile elements:
+- listening ports (allowed to be open)
+- logged in users and accounts 
+- service accounts (definitions of the type of service that app is allowed to run)
+- software environment (tasks, processes, apps that are permitted to run)
+
+###
+
+Network anomaly detection:
+- recognises network traffic caused by worm activity
+- identifies infected hosts
+
+Types:
+- statistical approach 
+- behavioral approach
+- rule-based approach (patterns based)
+
+
+###
+
+Network vulnerability testing
+- risk analysis (assess impact on assets) > conducted by individuals
+- vulnerabilities assessment (patch management, port scanning) > Nessus, Nmap
+- penetration testing (hacking techniques) > Metasploit, ethical hackers
+
+
+
+

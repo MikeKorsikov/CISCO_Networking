@@ -1,0 +1,22 @@
+# Common Vulnerability Scoring System (CVSS)
+
+CVSS - risk assessment tool to convey severity of vulnerabilities in HW and SW systems
+FIRST -  Forum of Incident Response and Security Teams 
+
+Groups of metrics:
+- Base Metric Group (exploitability, impact)
+- Temporal Metric Group
+- Environmental Metric Group
+
+
+CVSS processes: questionnaire > scoring
+
+CVSS reports: 
+Rating: none, low, medium, high, critical
+
+CVE - Common Vulnerabilities and Exposures (by Mitre)
+Dictionary of common names for known cybersecurity vulnerabilities.
+
+NVD - National Vulnerability Database (by US NIST)
+
+
