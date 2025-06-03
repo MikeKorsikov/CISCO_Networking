@@ -12,4 +12,25 @@ Responses:
 ###
 
 Vulnerability management - proactively prevent the exploitation of IT vulnerabilities.
+Cycle: discover > prioritize > assess > report > remediate > verify
 
+###
+
+Asset management - track location and configuration of devices and software
+
+MDM - mobile device management
+Configuration management - control of hardware and software configurations of systems
+
+###
+
+Patch management - verifying that the patch is installed on all required systems
+Tools:  SolarWinds, LANDesk, SCCM
+
+Techniques:
+- agend-based (requires a software agent to be running on each host to be patched)
+- agentless Scanning (Patch management servers scan the network for devices that require patching)
+- passive network monitoring (Devices requiring patching are identified through the monitoring of traffic on the network)
+
+Vendor > chaching device > security team > patch management server > endpoint
+
+###
