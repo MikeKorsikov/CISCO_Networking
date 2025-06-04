@@ -1,0 +1,40 @@
+# Risk Assessment
+
+Threat source types:
+- Adversarial (individuals)
+- Accidental (without intent)
+- Structural (HW and SW failures)
+- Environmental (external disasters)
+
+Assess - probability vs impact/severity
+
+Risk analysis goals:
+- identify assets and their value
+- identify vulnerabilities and threats
+- quantify probability and impact
+- balance impact and cost of mitigation
+
+###
+
+Qunatitative risk analysis:
+
+1) Asset value (AV) - replacement cost
+2) Exposure factor (EF) - subjective value lost due to threat
+3) Single loss expectancy (SLE) = AV * EF 
+
+4) Annualised rate of occurence (ARO) - probability of loss occurring during the year
+5) Annual loss expectancy  = SLE * ARO
+
+###
+
+Qualitative risk analysis:
+Risk matrix (impact vs likelyhood)
+
+###
+
+Risk mitigation:
+Accept - (do nothing)
+Reduce - (take steps)
+Avoid - (workaround)
+Transfer - (outsource, insurance)
+
