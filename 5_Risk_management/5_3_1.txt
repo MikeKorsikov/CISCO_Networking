@@ -1,1 +1,20 @@
 # Security Controls
+
+Security controls - countermeasures to minimize security risks to organizational assets. 
+
+Admin controls - procedures and policies
+Technical controls - HW and SW related
+Physical controls - separate people from systems
+
+###
+
+Functional security controls:
+Preventive - stop unwanted and unauthorized activity
+Deterrent - discourage something from happening
+Detective - focus on the discovery of a security breach
+Corrective - counteract something undesirable by restoring the system back
+Recovery - more advanced capabilities over corrective 
+Compensative -  options to other controls (substitution)
+
+###
+
