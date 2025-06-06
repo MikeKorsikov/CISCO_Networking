@@ -1,1 +1,55 @@
 # Digital forensics
+
+Process:
+1) Collection (identify sources of data)
+2) Examination (assess and extract info from data [decryption, decompression])
+3) Analysis (draw conclusions)
+4) Reporting (explanations offered)
+
+Types:
+a) direct - indisputably in the possession of the accused (or eyewitness evidence)
+b) Indirect - circumstantial evidence
+
+Types of evidence:
+- Best (in the original state)
+- Corroborating (supports an assertion that is developed from best evidence)
+- Indirect (circumstantial evidence)
+
+Collection order:
+1) Volatile - memory registers, caches, RAM, temporary file systems
+2) Non-volatile - remote logging, physical topologies, archived backup data
+
+Details:
+- who hass access to system
+- at what level of permissions
+- SW and HW configurations
+
+###
+
+Chain of customdy:
+- who discovered and collected evidence
+- times, places and personnel involved
+- who has primary responsibility for evidence
+- who has physical access to evidence
+
+###
+
+Original evidence - to be coppied
+Copied evidence - to be analyzed
+
+Do not (without instruction):
+- shut down
+- disconnect, unplug infected machines
+
+###
+
+Threat attribution - determening who is responsible for the attack
+
+What helps to identify actor:
+- IP address
+- MAC address
+- DHCP logs
+- AAA logs
+
+###
+
