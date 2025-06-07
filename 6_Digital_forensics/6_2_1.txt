@@ -1,1 +1,37 @@
 # The Cyber Kill Chain
+
+Cyber Kill Chain - specifies what an attacker must complete to accomplish their goal.
+
+Attacker = adversary = Threat actor 
+
+Steps:
+1 Reconnaissance
+2 Weaponization
+3 Delivery
+4 Exploitation
+5 Installation
+6 Command and Control
+7 Action on Objectives
+
+###
+
+Reconnaissance - perform research, gather intelligence, select target
+
+Tactics (examples):
+- harvest email addresses
+- identify employees on social media
+- discover internet facing servers
+- conduct scans of networks (to identify IP addresses and ports)
+
+###
+
+Weaponization - use intel to develop a weapon against a target system
+
+Tactics (examples):
+- obtain automated tool to deliver the malware payload
+- select or create a document to present to victim
+- select or create a backdoor ond C&C infrastructure
+
+###
+
+Delivery - 
