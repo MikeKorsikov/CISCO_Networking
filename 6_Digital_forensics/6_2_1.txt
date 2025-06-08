@@ -34,4 +34,48 @@ Tactics (examples):
 
 ###
 
-Delivery - 
+Delivery - weapon is transmitted to the target
+
+Tactics (examples):
+- direct against web servers
+- malicious email
+- malware on USB
+- compromised website
+
+###
+
+Exploitation - explot target (app, OS) vulnerability to gain control over target
+
+Tactics (examples):
+- use SW or HW vulnerability
+- develop the "exploit"
+- use victim triggered explot (e.g. opening email attachment)
+
+###
+
+Installation - establish a back door into system to allow conitnued access to target
+
+Tactics (examples):
+- installing webshell on web server for persistent access
+- adding services,AutoRun keys
+- modify timestamp of malware (to make it appear part of OS)
+
+###
+
+Command and control - establish CnC with target system
+
+Tactics (examples):
+- open two way communication channel to CnC infrastructure
+- use DNS and email protocols (port 53 and 25)
+
+###
+
+Actions and objectives - actor achievig goal
+
+Tactics (examples):
+- collect credentials
+- privilege escalation
+- collect data
+- destroy system- overwrite, modfy data
+
+
