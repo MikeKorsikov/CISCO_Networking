@@ -1,2 +1,20 @@
 # The Diamond Model of Intrusion Analysis
 
+- it is a model that represents security incident or event
+
+Event - time-bound activity that is restricted to a specific step in which 
+adversary uses capability over infrastructure to attack a victim to achive results
+
+Features:
+1) Adversary - party responsible for intrusion
+2) Capability - tool/technique used to attack
+3) Infrastructure - network path used to establish, maintain CnC over capabilities
+4) Victim - target of attack
+
+Elements (meta-features):
+a) Timestamp - start and stop of event
+b) Phase - (see cyber kill chain)
+c) Result - confidentiality, integrity and availability
+d) Direction - event across model 
+e) Methodology - used to classify type of event 
+f) Resources - used by adversary for the intrusion
