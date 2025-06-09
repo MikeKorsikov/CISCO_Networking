@@ -1,2 +1,26 @@
 # Incident responsible
 
+Aim - limit the impact of the attack, assess damage, implement recovery procedure
+
+NIST - national institute of standards and technology
+
+Incident Policy elements:
+- purpose and scope
+- definitions
+- structure, roles and responsibilities
+- priorities
+- performance measures
+- reporting forms
+
+Incident Response Plan elements:
+- mission, strategies and goals
+- approach to response
+- communication plan
+- metrics for response capacity
+
+Incident Procedure elements:
+- technical processes
+- using techniques
+- filling out forms
+- checklists
+
