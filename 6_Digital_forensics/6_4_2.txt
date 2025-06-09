@@ -1,0 +1,47 @@
+# Stakeholders
+
+CSIRT - computer security incident response team
+
+Groups:
+- management
+- information assurance
+- IT support
+- legal department
+- PR and media relations
+- HR
+- physical security 
+
+CMMC - Cybersecurity Maturity Model Certification
+- was created to assess org ability to perform functions for US DoD due to cyberattacks
+
+Incident management capabilities:
+- prepare plan response
+- detect and report event
+- develop and implement response
+- post incident review
+- test incident response
+
+L2 - lowest
+L3 - 
+L4 - 
+L5 - highest
+
+NIST incident response Life cycle:
+1) Preparation (assemble team, train)
+2) Detection and Analysis
+3) Containment, Erodication and Recovery 
+4) Post-incident activities (LL)
+
+
+Attack vectors:
+- web
+- email
+- loss or theft
+- impersonation
+- attrition (brute force attack on device, network, service)
+- media (attack initiated from external storage)
+
+Types of signs (leading and laging):
+a) Precursosr - sign that incident might occur in the future (new vulnerability)
+b) Indicator - sith that incident might already have occurred (failure)
+
