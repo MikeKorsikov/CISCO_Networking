@@ -1,1 +1,44 @@
 # Disaster recovery
+
+Disaster - event that damages assets and impairs the ability of the organization to continue operating
+
+DRP - includes activities org takes to assess, salvage, repair and restore damaged assets.
+DRP - covers mission critical processes and systems
+
+DR controls:
+Preventive (identify and mitigate)
+Corrective (restore after an event)
+Detective (uncover potential threats)
+
+###
+
+BCP - includes getting critical sysstems to another location while repair is underway.
+Process is buing conducted in alternate manner (workaround or Plan B).
+BCP is broader than DRP.
+
+###
+
+RTO - maximum time that a system/app can be unavailable AFTER a failure or disaster.
+RPO - maximum acceptable amount of data loss measured in time (determines how often backups should be made)
+MTTR - average time required to repair a failed component
+MTBR - average time that elapses between one failure and the next
+
+###
+
+NIST Best practice:
+1. Develop policy
+2. Conduct BIA
+3. Calculate risk
+4. Identify preventive controls
+5. Develop recovery strategies
+6. Develop contingency plan
+7. Test the plan
+8. Maintain/update plan
+
+###
+
+Testing DRP:
+- Tabletop exercise (hypothetical)
+- Functional testing (aspect of plan tested)
+- Operational exercise (involve service intrruption)
+
